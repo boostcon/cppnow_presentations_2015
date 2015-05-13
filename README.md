@@ -5,7 +5,7 @@
 * Library in a Week: C++ Application Configuration
 * Generic Programming with Concepts
 * Parallel Computing: Strategies and Implications  
-* Testing Battle.net (before deploying to millions of players)  
+* [Testing Battle.net (before deploying to millions of players)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/testing-battlenet.pdf)
 * Your CPU Is Binary
 * Functional Geometry: Producing Pure Spaces  
 * Lessons Learned  
