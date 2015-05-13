@@ -26,7 +26,7 @@
 * Boost Operations: Community Maintenance Team
 * Back to the Future  
 * Large-Scale C++: Advanced Levelization Techniques, Part I  
-* switchAny - A Practical Exercise in Template Metaprogramming
+* [switchAny - A Practical Exercise in Template Metaprogramming](https://github.com/CornedBee/TemplateMetaprogramming)
 * New Build System for New C++  
 * Large-Scale C++: Advanced Levelization Techniques, Part II  
 * The Price of Shared Pointers or Why Passing them by-reference can be Useful
