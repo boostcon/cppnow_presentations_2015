@@ -2,7 +2,7 @@
 
 ## Tuesday, May 12
 
-* Library in a Week: C++ Application Configuration
+* [Library in a Week: C++ Application Configuration](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/liaw2015-day1-application_configuration.pdf)
 * Generic Programming with Concepts
 * Parallel Computing: Strategies and Implications  
 * [Testing Battle.net (before deploying to millions of players)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/testing-battlenet.pdf)
