@@ -19,7 +19,7 @@
 
 * Numerical Weather Prediction: Facing the Future with C++
 * On the design and Boost-based implementation of two new C++ libraries for atmospheric research  
-* Thinking Portable: How and why to make your C++ cross platform
+* [Thinking Portable: Why and how to make your C++ cross platform](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ThinkingPortable-JasonTurner-v3.pdf)
 * Why in heaven there is no dependency management for C++?  
 * Boost.Compute: A library for GPU/parallel-computing  
 * Developing EDSL's for Boost.Spirit
