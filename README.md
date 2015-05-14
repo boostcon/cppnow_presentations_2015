@@ -21,7 +21,7 @@
 * On the design and Boost-based implementation of two new C++ libraries for atmospheric research  
 * [Thinking Portable: Why and how to make your C++ cross platform](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ThinkingPortable-JasonTurner-v3.pdf)
 * Why in heaven there is no dependency management for C++?  
-* Boost.Compute: A library for GPU/parallel-computing  
+* [Boost.Compute: A library for GPU/parallel-computing](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Boost.ComputeCxxNow2015.pdf)
 * Developing EDSL's for Boost.Spirit
 * Boost Operations: Community Maintenance Team
 * Back to the Future  
