@@ -17,7 +17,7 @@
 
 ## Wednesday, May 13
 
-* Numerical Weather Prediction: Facing the Future with C++
+* [Numerical Weather Prediction: Facing the Future with C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/NWP-Facing-the-Future-with-Cpp.pdf)
 * On the design and Boost-based implementation of two new C++ libraries for atmospheric research  
 * [Thinking Portable: Why and how to make your C++ cross platform](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ThinkingPortable-JasonTurner-v3.pdf)
 * Why in heaven there is no dependency management for C++?  
