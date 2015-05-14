@@ -6,7 +6,7 @@
 * Generic Programming with Concepts
 * Parallel Computing: Strategies and Implications  
 * [Testing Battle.net (before deploying to millions of players)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/testing-battlenet.pdf)
-* Your CPU Is Binary
+* [Your CPU Is Binary](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Your_CPU_Is_Binary.pdf)
 * Functional Geometry: Producing Pure Spaces  
 * Lessons Learned  
 * Type Deduction in C++14
