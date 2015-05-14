@@ -31,7 +31,7 @@
 * Large-Scale C++: Advanced Levelization Techniques, Part II  
 * The Price of Shared Pointers or Why Passing them by-reference can be Useful
 * Lightning Talks
-
+   * [MessagePack(msgpack): A Compact and Fast Serialization Library](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/cppnow2015_msgpack_taka.pdf)
 ## Thursday, May 14
 
 * Ranges for the Standard Library
