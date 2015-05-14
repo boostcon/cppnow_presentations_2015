@@ -27,7 +27,7 @@
 * Back to the Future  
 * Large-Scale C++: Advanced Levelization Techniques, Part I  
 * [switchAny - A Practical Exercise in Template Metaprogramming](https://github.com/CornedBee/TemplateMetaprogramming)
-* New Build System for New C++  
+* [New Build System for New C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/new-build-system-for-new-cxx.pdf)
 * Large-Scale C++: Advanced Levelization Techniques, Part II  
 * The Price of Shared Pointers or Why Passing them by-reference can be Useful
 * Lightning Talks
