@@ -24,7 +24,7 @@
 * [Boost.Compute: A library for GPU/parallel-computing](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Boost.ComputeCxxNow2015.pdf)
 * Developing EDSL's for Boost.Spirit
 * Boost Operations: Community Maintenance Team
-* Back to the Future  
+* [Back to the Future](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/back_to_the_future.pdf)
 * Large-Scale C++: Advanced Levelization Techniques, Part I  
 * [switchAny - A Practical Exercise in Template Metaprogramming](https://github.com/CornedBee/TemplateMetaprogramming)
 * [New Build System for New C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/new-build-system-for-new-cxx.pdf)
