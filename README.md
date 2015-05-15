@@ -36,7 +36,7 @@
 ## Thursday, May 14
 
 * Ranges for the Standard Library
-* A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind  
+* [A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/A-review-of-Cxx-11-14-only-Boost-libraries-Fiber-AFIO-DI-and-APIBind.pdf)
 * Robustness and Security Techniques with Modern C++  
 * Type-safe configuration library
 * Boost Operations: Release Management
