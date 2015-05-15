@@ -11,7 +11,7 @@
 * Lessons Learned  
 * Type Deduction in C++14
 * [Yomm11: Open Multi-Methods for C++11](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/yomm11.pdf)
-* constexpr: C++ At Compile Time  
+* [constexpr: C++ At Compile Time](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/CppNow2015_ConstexprSlides.pdf)
 * Biicode, a C/C++ dependency manager with a hosting service
 * Boost 2.0
 
