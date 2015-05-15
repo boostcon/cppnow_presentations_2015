@@ -31,13 +31,19 @@
 * Large-Scale C++: Advanced Levelization Techniques, Part II  
 * The Price of Shared Pointers or Why Passing them by-reference can be Useful
 * Lightning Talks
-   * [MessagePack(msgpack): A Compact and Fast Serialization Library](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/cppnow2015_msgpack_taka.pdf)
+   * [MessagePack(msgpack): A Compact and Fast Serialization Library](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/cppnow2015_msgpack_taka.pdf)
+   * [Fun with with](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/04_marcel_ebmer.pdf)
+   * [Clang on SOC](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/05_cheinan_marks_0.pdf)
+   * [Surviving and Thriving in a Multiplatform, Multilanguage, Multiproduct, Multisite Continuous Integration Environment](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/06_gwen_hunt.pdf)
+   * [Sequences from Streams](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/07_jeff_trull)
+   * [Multimethod as dynamic C++ overloading.](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/08_julian_smith.pdf)
+   * [Currying and other Functional Constructs in C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/09_krishna_achuthan.pdf)
+   *  
 
 ## Thursday, May 14
 
 * Ranges for the Standard Library
 * [A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/A-review-of-Cxx-11-14-only-Boost-libraries-Fiber-AFIO-DI-and-APIBind.pdf)
-* Robustness and Security Techniques with Modern C++  
 * Type-safe configuration library
 * Boost Operations: Release Management
 * How we reason about procedural programs  
@@ -58,7 +64,8 @@
 * IIFE In C++ For Performance and Safety
 * Boost Operations: Web Presense
 * C++17 coroutines for app and library developers, Part I  
-* Better Code: Concurrency  
+* [Better Code: Concurrency](https://github.com/sean-parent/sean-parent.github.io/wiki/Papers-and-Presentations)
+    * [Experimental Future Library](https://github.com/stlab/libraries/tree/develop)
 * Using Spirit X3, Part I
 * C++17 coroutines for app and library developers, Part II  
 * An Overview on Encryption in C++  Using Spirit X3, Part II
