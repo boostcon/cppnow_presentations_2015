@@ -50,7 +50,7 @@
 ## Friday, May 15
 
 * Debugging using an exact recording of a program's execution.  
-* Details Matter  
+* [Details Matter](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Details-Matter-CppNow-2015.pdf)
 * [The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ruleofseven.pdf)
 * Parallelizing the Standard Template Library(STL)  
 * C++ metaprogramming: a paradigm shift  
