@@ -53,7 +53,7 @@
 * [Details Matter](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Details-Matter-CppNow-2015.pdf)
 * [The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ruleofseven.pdf)
 * Parallelizing the Standard Template Library(STL)  
-* C++ metaprogramming: a paradigm shift  
+* [C++ metaprogramming: a paradigm shift](http://ldionne.github.io/hana-cppnow-2015) [(PDF)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/cxx_metaprogramming-a_paradigm_shift.pdf)
 * Fun with C11 generic selection expression
 * IIFE In C++ For Performance and Safety
 * Boost Operations: Web Presense
