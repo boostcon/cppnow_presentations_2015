@@ -43,7 +43,7 @@
 * How we reason about procedural programs  
 * Modern generic programming using the Tick and Fit libraries  
 * Functions Want To Be Free
-* [Boostache Exposed - the internals of Boost's template engine]((https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/boostache.pdf)
+* [Boostache Exposed - the internals of Boost's template engine](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/boostache.pdf)
 * Lock-free by Example: Towards an Interesting Lock-free MPMC Queue  
 * [Big Projects, and CMake, and Git, Oh My!](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Large-Projects-and-CMake-and-git-oh-my.pdf)
 
