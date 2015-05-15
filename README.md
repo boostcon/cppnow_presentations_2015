@@ -43,7 +43,7 @@
 * How we reason about procedural programs  
 * Modern generic programming using the Tick and Fit libraries  
 * Functions Want To Be Free
-* [Boostache Exposed - the internals of Boost's template engine]((https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/boostache.pdf)
+* [Boostache Exposed - the internals of Boost's template engine](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/boostache.pdf)
 * Lock-free by Example: Towards an Interesting Lock-free MPMC Queue  
 * [Big Projects, and CMake, and Git, Oh My!](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Large-Projects-and-CMake-and-git-oh-my.pdf)
 
@@ -53,7 +53,7 @@
 * [Details Matter](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Details-Matter-CppNow-2015.pdf)
 * [The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ruleofseven.pdf)
 * Parallelizing the Standard Template Library(STL)  
-* C++ metaprogramming: a paradigm shift  
+* [C++ metaprogramming: a paradigm shift](http://ldionne.github.io/hana-cppnow-2015) [(PDF)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/cxx_metaprogramming-a_paradigm_shift.pdf)
 * Fun with C11 generic selection expression
 * IIFE In C++ For Performance and Safety
 * Boost Operations: Web Presense
