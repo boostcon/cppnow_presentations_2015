@@ -66,6 +66,6 @@
 * [IIFE In C++ For Performance and Safety](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/IIFE-Cpp-Talk-Jason-Turner-cppnow.pdf)
 * [Better Code: Concurrency](https://github.com/sean-parent/sean-parent.github.io/wiki/Papers-and-Presentations)
     * [Experimental Future Library](https://github.com/stlab/libraries/tree/develop)
-* Using Spirit X3
+* [Using Spirit X3](http://ciere.com/cppnow15/)
 * An Overview on Encryption in C++  
 * C++17 coroutines for app and library developers
