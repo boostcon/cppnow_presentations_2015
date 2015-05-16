@@ -47,7 +47,7 @@
 * Ranges for the Standard Library
 * [A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/A-review-of-Cxx-11-14-only-Boost-libraries-Fiber-AFIO-DI-and-APIBind.pdf)
 * Type-safe configuration library
-* How we reason about procedural programs  
+* [How we reason about procedural programs](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Lippincott-Cppnow-2015-How-we-reason-about-procedural-programs.pdf)
 * Modern generic programming using the Tick and Fit libraries  
 * Functions Want To Be Free
 * [Boostache Exposed - the internals of Boost's template engine](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/boostache.pdf)
