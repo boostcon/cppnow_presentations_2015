@@ -41,7 +41,7 @@
    * [When APIs Break, What Can You Do](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/11_billy_baker.pdf)
    * [Constexpr Include Joke](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/12_cheinan_marks.pdf)
    * [for_each_arg](https://github.com/SuperV1234/cppnow2015)
-   * [make_unique and Restricted Constructors](make_unique_and_restricted_constructors.pdf) ||| (Keynote File)[make_unique_and_restricted_constructors.key]
+   * [make_unique and Restricted Constructors](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/make_unique_and_restricted_constructors.pdf) ||| (Keynote File)[https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/make_unique_and_restricted_constructors.key]
 
 ## Thursday, May 14
 
