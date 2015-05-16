@@ -7,7 +7,7 @@
 * Parallel Computing: Strategies and Implications  
 * [Testing Battle.net (before deploying to millions of players)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/testing-battlenet.pdf)
 * [Your CPU Is Binary](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Your_CPU_Is_Binary.pdf)
-* Functional Geometry: Producing Pure Spaces  
+* [Functional Geometry: Producing Pure Spaces](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/funcgeo_00.pdf)
 * Lessons Learned  
 * Type Deduction in C++14
 * [Yomm11: Open Multi-Methods for C++11](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/yomm11.pdf)
