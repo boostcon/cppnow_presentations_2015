@@ -38,7 +38,10 @@
    * [Sequences from Streams](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/07_jeff_trull)
    * [Multimethod as dynamic C++ overloading.](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/08_julian_smith.pdf)
    * [Currying and other Functional Constructs in C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/09_krishna_achuthan.pdf)
-   *  
+   * [General Relativity Applied to Coding Styles](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/10_jean-louis_leroy.pdf)
+   * [When APIs Break, What Can You Do](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/11_billy_baker.pdf)
+   * [Constexpr Include Joke](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/12_cheinan_marks.pdf)
+   * [for_each_arg](https://github.com/SuperV1234/cppnow2015)
 
 ## Thursday, May 14
 
