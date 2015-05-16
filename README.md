@@ -12,7 +12,7 @@
 * Type Deduction in C++14
 * [Yomm11: Open Multi-Methods for C++11](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/yomm11.pdf)
 * [constexpr: C++ At Compile Time](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/CppNow2015_ConstexprSlides.pdf)
-* Biicode, a C/C++ dependency manager with a hosting service
+* [Biicode, a C/C++ dependency manager with a hosting service](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/dep_manager_workshop.pdf)
 * [Boost 2.0](http://www.blincubator.com/C++Now2015/)
 
 ## Wednesday, May 13
@@ -20,7 +20,7 @@
 * [Numerical Weather Prediction: Facing the Future with C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/NWP-Facing-the-Future-with-Cpp.pdf)
 * [On the design and Boost-based implementation of two new C++ libraries for atmospheric research](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/boost-atmospheric-research.pdf)
 * [Thinking Portable: Why and how to make your C++ cross platform](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ThinkingPortable-JasonTurner-v3.pdf)
-* Why in heaven there is no dependency management for C++?  
+* [Why in heaven there is no dependency management for C++?](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/why_no_dep_manager.pdf)
 * [Boost.Compute: A library for GPU/parallel-computing](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Boost.ComputeCxxNow2015.pdf)
 * Developing EDSL's for Boost.Spirit
 * [Back to the Future](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/back_to_the_future.pdf)
