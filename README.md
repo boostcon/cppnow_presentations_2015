@@ -23,7 +23,6 @@
 * Why in heaven there is no dependency management for C++?  
 * [Boost.Compute: A library for GPU/parallel-computing](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Boost.ComputeCxxNow2015.pdf)
 * Developing EDSL's for Boost.Spirit
-* Boost Operations: Community Maintenance Team
 * [Back to the Future](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/back_to_the_future.pdf)
 * Large-Scale C++: Advanced Levelization Techniques, Part I  
 * [switchAny - A Practical Exercise in Template Metaprogramming](https://github.com/CornedBee/TemplateMetaprogramming)
@@ -48,7 +47,6 @@
 * Ranges for the Standard Library
 * [A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/A-review-of-Cxx-11-14-only-Boost-libraries-Fiber-AFIO-DI-and-APIBind.pdf)
 * Type-safe configuration library
-* Boost Operations: Release Management
 * How we reason about procedural programs  
 * Modern generic programming using the Tick and Fit libraries  
 * Functions Want To Be Free
@@ -61,14 +59,12 @@
 * Debugging using an exact recording of a program's execution.  
 * [Details Matter](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Details-Matter-CppNow-2015.pdf)
 * [The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ruleofseven.pdf)
-* Parallelizing the Standard Template Library(STL)  
-* [C++ metaprogramming: a paradigm shift](http://ldionne.github.io/hana-cppnow-2015) [(PDF)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/cxx_metaprogramming-a_paradigm_shift.pdf)
+* Parallelizing the Standard Template Library(STL)  ||| [PPTX](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Parallelizing-the-Cpp-Standard-Template-Library.pptx)
+* [C++ metaprogramming: a paradigm shift](http://ldionne.github.io/hana-cppnow-2015) ||| [(PDF)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/cxx_metaprogramming-a_paradigm_shift.pdf)
 * Fun with C11 generic selection expression
 * IIFE In C++ For Performance and Safety
-* Boost Operations: Web Presense
-* C++17 coroutines for app and library developers, Part I  
 * [Better Code: Concurrency](https://github.com/sean-parent/sean-parent.github.io/wiki/Papers-and-Presentations)
     * [Experimental Future Library](https://github.com/stlab/libraries/tree/develop)
-* Using Spirit X3, Part I
-* C++17 coroutines for app and library developers, Part II  
-* An Overview on Encryption in C++  Using Spirit X3, Part II
+* Using Spirit X3
+* An Overview on Encryption in C++  
+* C++17 coroutines for app and library developers
