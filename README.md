@@ -62,7 +62,7 @@
 * Parallelizing the Standard Template Library(STL)  ||| [PPTX](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Parallelizing-the-Cpp-Standard-Template-Library.pptx)
 * [C++ metaprogramming: a paradigm shift](http://ldionne.github.io/hana-cppnow-2015) ||| [(PDF)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/cxx_metaprogramming-a_paradigm_shift.pdf)
 * Fun with C11 generic selection expression
-* IIFE In C++ For Performance and Safety
+* [IIFE In C++ For Performance and Safety](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/IIFE-Cpp-Talk-Jason-Turner-cppnow.pdf)
 * [Better Code: Concurrency](https://github.com/sean-parent/sean-parent.github.io/wiki/Papers-and-Presentations)
     * [Experimental Future Library](https://github.com/stlab/libraries/tree/develop)
 * Using Spirit X3
