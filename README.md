@@ -68,5 +68,5 @@
 * [Better Code: Concurrency](https://github.com/sean-parent/sean-parent.github.io/wiki/Papers-and-Presentations)
     * [Experimental Future Library](https://github.com/stlab/libraries/tree/develop)
 * [Using Spirit X3](http://ciere.com/cppnow15/)
-* An Overview on Encryption in C++  
+* [An Overview on Encryption in C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Cpp-Now-2015-Jens-Weller-An-overview-on-Encryption-in-Cpp.pdf)
 * C++17 coroutines for app and library developers
