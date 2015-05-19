@@ -9,7 +9,7 @@
 * [Your CPU Is Binary](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Your_CPU_Is_Binary.pdf)
 * [Functional Geometry: Producing Pure Spaces](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/funcgeo_00.pdf)
 * [Lessons Learned](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/LessonsLearned.pdf)
-* Type Deduction in C++14
+* [Type Deduction in C++14](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/type_deduction_in_cpp14.pdf) ||| [ODP File](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/type_deduction_in_cpp14.odp)
 * [Yomm11: Open Multi-Methods for C++11](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/yomm11.pdf)
 * [constexpr: C++ At Compile Time](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/CppNow2015_ConstexprSlides.pdf)
 * [Biicode, a C/C++ dependency manager with a hosting service](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/dep_manager_workshop.pdf)
@@ -51,7 +51,7 @@
 * Type-safe configuration library
 * [How we reason about procedural programs](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Lippincott-Cppnow-2015-How-we-reason-about-procedural-programs.pdf)
 * Modern generic programming using the Tick and Fit libraries  
-* Functions Want To Be Free
+* [Functions Want To Be Free](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/functions_want_to_be_free.pdf)
 * [Boostache Exposed - the internals of Boost's template engine](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/boostache.pdf)
 * [Lock-free by Example: Towards an Interesting Lock-free MPMC Queue](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/A-Complicated-Lockfree-Queue.pdf)
 * [Big Projects, and CMake, and Git, Oh My!](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Large-Projects-and-CMake-and-git-oh-my.pdf)
