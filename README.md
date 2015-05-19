@@ -24,10 +24,9 @@
 * [Boost.Compute: A library for GPU/parallel-computing](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Boost.ComputeCxxNow2015.pdf)
 * Developing EDSL's for Boost.Spirit
 * [Back to the Future](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/back_to_the_future.pdf)
-* Large-Scale C++: Advanced Levelization Techniques, Part I  
+* [Large-Scale C++: Advanced Levelization Techniques, Parts I & II](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/accu2014.150513.pdf)
 * [switchAny - A Practical Exercise in Template Metaprogramming](https://github.com/CornedBee/TemplateMetaprogramming)
 * [New Build System for New C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/new-build-system-for-new-cxx.pdf)
-* Large-Scale C++: Advanced Levelization Techniques, Part II  
 * The Price of Shared Pointers or Why Passing them by-reference can be Useful
 * Lightning Talks
    * [MessagePack(msgpack): A Compact and Fast Serialization Library](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/lightning/cppnow2015_msgpack_taka.pdf)
