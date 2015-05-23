@@ -3,7 +3,7 @@
 ## Tuesday, May 12
 
 * [Library in a Week: C++ Application Configuration](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/liaw2015-day1-application_configuration.pdf)
-* Generic Programming with Concepts
+* Conference Keynote: Generic Programming with Concepts
 * Parallel Computing: Strategies and Implications  
 * [Testing Battle.net (before deploying to millions of players)](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/testing-battlenet.pdf)
 * [Your CPU Is Binary](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Your_CPU_Is_Binary.pdf)
@@ -17,7 +17,7 @@
 
 ## Wednesday, May 13
 
-* [Numerical Weather Prediction: Facing the Future with C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/NWP-Facing-the-Future-with-Cpp.pdf)
+* [Conference Keynote: Numerical Weather Prediction: Facing the Future with C++](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/NWP-Facing-the-Future-with-Cpp.pdf)
 * [On the design and Boost-based implementation of two new C++ libraries for atmospheric research](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/boost-atmospheric-research.pdf)
 * [Thinking Portable: Why and how to make your C++ cross platform](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ThinkingPortable-JasonTurner-v3.pdf)
 * [Why in heaven there is no dependency management for C++?](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/why_no_dep_manager.pdf)
@@ -45,7 +45,7 @@
 
 ## Thursday, May 14
 
-* Ranges for the Standard Library
+* [Conference Keynote: Ranges for the Standard Library](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ranges-calendar-boostcon-2015-05.pdf) ||| [PPTX File](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ranges-calendar-boostcon-2015-05.pptx)
 * [A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/A-review-of-Cxx-11-14-only-Boost-libraries-Fiber-AFIO-DI-and-APIBind.pdf)
 * Type-safe configuration library
 * [How we reason about procedural programs](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Lippincott-Cppnow-2015-How-we-reason-about-procedural-programs.pdf)
