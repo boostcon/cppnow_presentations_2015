@@ -47,7 +47,7 @@
 
 * [Conference Keynote: Ranges for the Standard Library](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ranges-calendar-boostcon-2015-05.pdf) ||| [PPTX File](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/ranges-calendar-boostcon-2015-05.pptx)
 * [A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/A-review-of-Cxx-11-14-only-Boost-libraries-Fiber-AFIO-DI-and-APIBind.pdf)
-* Type-safe configuration library
+* [Type-safe configuration library](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Type-safe-configuration-library.pdf)
 * [How we reason about procedural programs](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/Lippincott-Cppnow-2015-How-we-reason-about-procedural-programs.pdf)
 * [Modern generic programming using the Tick and Fit libraries](https://gitlab.com/pfultz2/cppnow2015) ||| [PDF File](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/tick_and_fit.pdf)
 * [Functions Want To Be Free](https://github.com/boostcon/cppnow_presentations_2015/raw/master/files/functions_want_to_be_free.pdf)
